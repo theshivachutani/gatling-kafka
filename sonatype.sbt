@@ -1,7 +1,7 @@
-sonatypeProfileName := "com.github.mnogu"
+sonatypeProfileName := "com.github.theshivachutani"
 
 pomExtra in Global := {
-  <url>https://github.com/mnogu/gatling-kafka</url>
+  <url>https://github.com/theshivachutani/gatling-kafka</url>
   <licenses>
     <license>
       <name>Apache 2</name>
@@ -9,15 +9,15 @@ pomExtra in Global := {
     </license>
   </licenses>
   <scm>
-    <connection>scm:git:github.com/mnogu/gatling-kafka.git</connection>
-    <developerConnection>scm:git:git@github.com:mnogu/gatling-kafka.git</developerConnection>
-    <url>github.com/mnogu/gatling-kafka.git</url>
+    <connection>scm:git:github.com/theshivachutani/gatling-kafka.git</connection>
+    <developerConnection>scm:git:git@github.com:theshivachutani/gatling-kafka.git</developerConnection>
+    <url>github.com/theshivachutani/gatling-kafka.git</url>
   </scm>
   <developers>
     <developer>
       <id>mnogu</id>
-      <name>Muneyuki Noguchi</name>
-      <url>https://github.com/mnogu</url>
+      <name>Shiva Chutani</name>
+      <url>https://github.com/theshivachutani</url>
     </developer>
   </developers>
 }
